@@ -7,3 +7,4 @@
   * Commit 2 - master
   * Commit 3 - bug-fix
   * Commit 4 - bug-fix
+  * Commit 6 - bug-fix
