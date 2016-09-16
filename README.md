@@ -3,3 +3,4 @@
 # Kyle Wiese
 
   * Initial Commit
+  * Commit 3 - bug-fix
