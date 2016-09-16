@@ -3,5 +3,7 @@
 # Kyle Wiese
 
   * Initial Commit
+  * Commit 1 - master
+  * Commit 2 - master
   * Commit 3 - bug-fix
   * Commit 4 - bug-fix
