@@ -4,3 +4,4 @@
 
   * Initial Commit
   * Commit 3 - bug-fix
+  * Commit 4 - bug-fix
