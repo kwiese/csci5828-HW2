@@ -11,3 +11,4 @@
   * Commit 7 - bug-fix-experimental
   * Commit 8 - bug-fix-experimental
   * Commit 9 - bug-fix-experimental
+  * Commit 12 - bug-fix
